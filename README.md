@@ -1,7 +1,7 @@
 ### Hi there, my name is Ariel and here you have a little bit of my career 🚀;
 
 
-I'm a Full Stack web developer, I have more than 11 years of experience working in differents software developer technologies, during my career I have worked for 3 years as a Quality Assurance Engineer and the last 8 years I have dedicated to work as a Java developer with the Spring ecosystem and the most popular tools on the world of JS/TS; Node, Deno, React, Angular and Vue and also I collaborated with other projects using Python and Django. Currently I'm getting on about the AI/ML world.🤖
+I'm a Full Stack web developer, I have more than 11 years of experience working in differents software developer technologies, during my career I have worked for 3 years as a Quality Assurance Engineer and the last 8 years I have dedicated to work as a Java developer with the Spring ecosystem and the most popular tools on the world of JS/TS; Node, Deno, React, Redux, Angular, Ngrx and others, and also I collaborated with other projects using Python and Django. Currently I'm getting on about the AI/ML world.🤖
 
 ##
 
