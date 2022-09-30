@@ -83,7 +83,10 @@ I'm a Full Stack web developer, I have more than 11 years of experience working 
  	<a href="https://www.twitch.tv/lorddevian" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:iariel.javauser@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arielduarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+</div>
+<div align="center">
+  ![Snake animation](https://github.com/reyduar/reyduar/blob/output/github-contribution-grid-snake.svg)  
 </div>
 
-![Snake animation](https://github.com/reyduar/reyduar/blob/output/github-contribution-grid-snake.svg)
 
