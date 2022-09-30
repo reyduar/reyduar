@@ -1,17 +1,16 @@
-### Hi there, my name is Ariel and here you have a little bit of my career 🚀;
-
-
+<div>
+<h2 align="center"> Hi there, my name is Ariel and here you have a little bit of my career 🚀; </h2>
+<br>
+<p align="center">
 I'm a Full Stack web developer, I have more than 11 years of experience working in differents software developer technologies, during my career I have worked for 3 years as a Quality Assurance Engineer and the last 8 years I have dedicated to work as a Java developer with the Spring ecosystem and the most popular tools on the world of JS/TS; Node, Deno, React, Redux, Angular, Ngrx and others, and also I collaborated with others projects using Python and Django. Currently I'm getting on about the AI/ML world.🤖
-
-##
-
+</p>
+<br><br>
 <div align="center">
   <a href="https://github.com/reyduar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reyduar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyduar&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-
-##
+</div>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="ariel-Ja" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -86,7 +85,9 @@ I'm a Full Stack web developer, I have more than 11 years of experience working 
   
 </div>
 <div align="center">
+  
   ![Snake animation](https://github.com/reyduar/reyduar/blob/output/github-contribution-grid-snake.svg)  
+  
 </div>
 
 
