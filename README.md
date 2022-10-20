@@ -2,7 +2,7 @@
 <h2 align="center"> Hi there, my name is Ariel and here you have a little bit of my career 🚀; </h2>
 <br>
 <p align="center">
-I'm a Full Stack web developer, I have more than 11 years of experience working in differents software developer technologies, during my career I have worked for 3 years as a Quality Assurance Engineer and the last 8 years I have dedicated to work as a Java developer with the Spring ecosystem and the most popular tools on the world of JS/TS; Node, Deno, React, Redux, Angular, Ngrx and others, and also I collaborated with others projects using Python and Django. Currently I'm getting on about the AI/ML world.🤖
+I'm a Full Stack web developer, I have more than 11 years of experience working in differents software developer technologies, during my career I have worked for 3 years as a Quality Assurance Engineer and the last 8 years I have dedicated to work as a Java developer with the Spring ecosystem and now I'm working on the most popular tools in the world of JS/TS; Nest, React, Redux, Angular, Ngrx and others, and also I collaborated with others projects using Python and Django. Currently I'm learning about AI/ML world and I'm so anxious to work on it.🤖
 </p>
 <br><br>
 <div align="center">
