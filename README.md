@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-Hi there, my name is Ariel, I like to play video games, I love to play chess, beer and death metal, I am freelancer kind of a digital nomad and I work as a full-stack developer.
+Hi there, my name is Ariel I like to play video games and I really love to play chess, beer and death metal, I am freelancer kind of a digital nomad and I work as a full-stack developer.
   
 <h2 align="center"> Hi there, my name is Ariel and here you have a little bit of my career 🚀; </h2>
 <br>
