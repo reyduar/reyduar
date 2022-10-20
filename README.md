@@ -1,8 +1,11 @@
 <div>
+<p align="center">
+Hi there, my name is Ariel, I like to play video games, I love to play chess, beer and death metal, I am freelancer kind of a digital nomad and I work as a full-stack developer.
+  
 <h2 align="center"> Hi there, my name is Ariel and here you have a little bit of my career 🚀; </h2>
 <br>
-<p align="center">
-I'm a Full Stack web developer, I have more than 11 years of experience working in differents software developer technologies, during my career I have worked for 3 years as a Quality Assurance Engineer and the last 8 years I have dedicated to work as a Java developer with the Spring ecosystem and now I'm working on the most popular tools in the world of JS/TS; Nest, React, Redux, Angular, Ngrx and others, and also I collaborated with others projects using Python and Django. Currently I'm learning about AI/ML world and I'm so anxious to work on it.🤖
+  
+I have experience working with differents software development profiles, I have worked for 3 years as a Quality Assurance Engineer and the least 8 years I have dedicated to work as a Java developer with the Spring ecosystem but now I'm working on the most popular tools in the world of JS/TS; Nest, React, Redux, Angular, Ngrx and others, and also I collaborated with projects using Python and Django. Currently I'm learning about AI/ML world and I'm so anxious to work on it.🤖
 </p>
 <br><br>
 <div align="center">
