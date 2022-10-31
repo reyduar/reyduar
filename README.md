@@ -3,7 +3,7 @@
 Hi there🖖, my name is Ariel I like to play video games and I really love chess, beer and death metal🤘
 <br>
 <h2> Here you have a little bit of my career 🚀; </h2> 
-I have experience working with differents software development profiles, I have worked for 3 years as a Quality Assurance Engineer and at the least per 8 years I have dedicated to work as a Java developer with the Spring ecosystem but now I'm working on the most popular tools in the world of JS/TS; Nest, React, Redux, Angular, Ngrx and others, and also I collaborated with projects using Python and Django. Currently I'm learning about AI/ML world and I'm so anxious to work on it.🤖
+I am a polyglot software developer, I have experience working with differents software development profiles, I have worked for 3 years as a Quality Assurance Engineer and at the least per 8 years I have dedicated to work as a Java developer with the Spring ecosystem but now I'm working on the most popular tools in the world of JS/TS; Nest, React, Redux, Angular, Ngrx and others, and also I collaborated with projects using Python and Django. Currently I'm learning about AI/ML world and I'm so anxious to work on it.🤖
 </p>
 <br><br>
 <div align="center">
