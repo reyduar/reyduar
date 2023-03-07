@@ -83,7 +83,7 @@ I am a polyglot software developer, I have experience working with differents so
   <a href="https://www.linkedin.com/in/arielduarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
 </div>
-<div align="center" hidden>
+<div align="center" style="display: none">
   
   ![Snake animation](https://github.com/reyduar/reyduar/blob/output/github-contribution-grid-snake.svg)  
   
