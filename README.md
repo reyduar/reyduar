@@ -1,7 +1,7 @@
 <div>
 <br>
-<h2>My name is Ariel and here you have a little bit of my career 🚀; </h2> 
-I am a polyglot software developer, I have experience working with differents software development profiles, I have worked for 3 years as a Quality Assurance Engineer and at the least per 8 years I have dedicated to work as a Java developer with the Spring ecosystem but now I'm working on the most popular tools in the world of JS/TS; Nest, React, Redux, Angular, Ngrx and others, and also I collaborated with projects using Python and Django. Currently I'm learning about AI/ML world and I'm so anxious to work on it.🤖
+<h2>My name is Ariel and here you have a little bit of my profile 🚀; </h2> 
+I am a Software Developer with a comprehensive background in web/mobile application development, I specialize in leveraging a wide array of technologies such as Angular, Ngrx/Store, Ngrx/Effects, React, Redux, Next.js, Node.js, NestJs, Cypress.js, PrimeNg, PrimeReact, Java, Spring, Docker and Flutter.
 </p>
 <br><br>
 <div align="center">
