@@ -71,7 +71,6 @@ I am a Software Developer with a comprehensive background in web/mobile applicat
   <img align="center" alt="ariel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="ariel-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   <img align="center" alt="ariel-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="right" alt="ariel-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/1919217?v=4?width=676&height=676">
 </div>
 
 ##
@@ -85,7 +84,9 @@ I am a Software Developer with a comprehensive background in web/mobile applicat
 </div>
 <div align="center">
   
- <!--  ![Snake animation](https://github.com/reyduar/reyduar/blob/output/github-contribution-grid-snake.svg)  -->
+ <!--  ![Snake animation](https://github.com/reyduar/reyduar/blob/output/github-contribution-grid-snake.svg)  
+ <img align="right" alt="ariel-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/1919217?v=4?width=676&height=676">
+ -->
   
 </div>
 
